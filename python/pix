@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<!-- https://bugbounty.jp/program/0602f8c6f136dbbd92fbb909 --><html lang="ja" class=" page-cool-index" xmlns:wb="http://open.weibo.com/wb">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=970">
+
+
+<meta name="format-detection" content="telephone=no">
+<meta property="og:site_name" content="pixiv">
+<meta property="fb:app_id" content="140810032656374">
+<meta property="wb:webmaster" content="4fd391fccdb49500" />
+                        <meta property="twitter:card" content="summary_large_image">
+                                <meta property="twitter:site" content="@pixiv">
+                                <meta property="twitter:url" content="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=64154370&amp;ref=twitter_photo_card">
+                                <meta property="twitter:title" content="2017　暑中見舞い">
+                                <meta property="twitter:description" content="そんな黒い格好しているんだ、当然暑いのだろう
+襟元を開いて、少しでも涼しくしようとしている
+（…着替えればいいじゃないか）
+思っては見るけど、はだけた着物から見える素肌がまぶしくて、あえて言わない
+ふと、怪訝そうな瞳が僕を見上げていた
+「…あげないよ？」
+どうやら彼女は、僕がその溶けはじめた棒アイスを欲しているように思えたようだ。
+僕は…
+
+
+◆メロンブックス様で委託させてもらっているC92新刊の特典クリアファイルになります。
+なんと、A3マイクロファイバータオルVerも作っていただけるそうです。よろしくお願いします！">
+                                <meta property="twitter:image" content="http://embed.pixiv.net/decorate.php?illust_id=64154370">
+                                <meta property="twitter:app:name:iphone" content="pixiv">
+                                <meta property="twitter:app:id:iphone" content="337248563">
+                                <meta property="twitter:app:url:iphone" content="pixiv://illusts/64154370">
+                                <meta property="twitter:app:name:ipad" content="pixiv">
+                                <meta property="twitter:app:id:ipad" content="337248563">
+                                <meta property="twitter:app:url:ipad" content="pixiv://illusts/64154370">
+                                <meta property="twitter:app:name:googleplay" content="pixiv">
+                                <meta property="twitter:app:id:googleplay" content="jp.pxv.android">
+                                <meta property="twitter:app:url:googleplay" content="pixiv://illusts/64154370">
+                                                <meta property="og:title" content="「2017　暑中見舞い」/「瑚樽（こたる)」[pixiv]">
+                                <meta property="og:type" content="article">
+                                <meta property="og:image" content="http://embed.pixiv.net/decorate.php?illust_id=64154370">
+                                <meta property="og:description" content="そんな黒い格好しているんだ、当然暑いのだろう
+襟元を開いて、少しでも涼しくしようとしている
+（…着替えればいいじゃないか）
+思っては見るけど、はだけた着物から見える素肌がまぶしくて、あえて言わな">
+                    
+<meta name="application-name" content="pixiv">
+<meta name="msapplication-tooltip" content="イラストコミュニケーションサービス">
+<meta name="msapplication-starturl" content="https://www.pixiv.net/"><meta name="msapplication-navbutton-color" content="#0096db">
+<meta name="msapplication-task" content="name=作品投稿;action-uri=https://www.pixiv.net/upload.php;icon-uri=https://source.pixiv.net/www/images/ico/upload.ico">
+<meta name="msapplication-task" content="name=作品管理;action-uri=https://www.pixiv.net/member_illust.php;icon-uri=https://source.pixiv.net/www/images/ico/settings.ico">
+<meta name="msapplication-task" content="name=ブックマーク;action-uri=https://www.pixiv.net/bookmark.php;icon-uri=https://source.pixiv.net/www/images/ico/bookmarks.ico">
+<meta name="msapplication-task" content="name=受信箱;action-uri=https://www.pixiv.net/msgbox.php;icon-uri=https://source.pixiv.net/www/images/ico/messages.ico">
+<meta name="msapplication-task" content="name=フィード;action-uri=https://www.pixiv.net/stacc/;icon-uri=https://source.pixiv.net/www/images/ico/stacc.ico">
+
+
+<title>【オリジナル】「2017　暑中見舞い」イラスト/瑚樽（こたる) [pixiv]</title>
+<meta name="keywords" content="オリジナル,獣耳,イラスト,pixiv,ピクシブ">
+<meta name="description" content="pixivに投稿された「瑚樽（こたる)」のイラストです。 「そんな黒い格好しているんだ、当然暑いのだろう 襟元を開いて、少しでも涼しくしようとしている （…着替えればいいじゃないか） 思っては見るけど、はだけた着物から見える素肌がまぶしくて、あえて言わな」">
+
+<script>
+var pageLoadStartTime = +(new Date);
+</script>
+
+<script>
+    console && console.log && console.log("https://bugbounty.jp/program/0602f8c6f136dbbd92fbb909"); </script>
+
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://touch.pixiv.net/member_illust.php?mode=medium&amp;illust_id=64154370" >
+    <link rel="canonical" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=64154370">
+
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://www.pixiv.net/favicon.ico">
+
+
+
+
+
+
+<script>
+!function(){"use strict";function a(){for(var a=[/\bMSIE\b/,/\bBingPreview\b/],b=0,c=a;b<c.length;b++){if(c[b].test(navigator.userAgent))return!0}return!1}function b(a,b){var c=b?"Promise.reject: ":"";if(d(a))return c+["type: "+a.type,f(a.target)?"target: {src: "+a.target.src+"}":"target: "+a.target,"currentTarget: "+a.currentTarget,"eventPhase: "+a.eventPhase].join(", ");if(e(a))return c+a.toString();if("object"==typeof a)try{return c+JSON.stringify(a)}catch(g){}return c+a}function c(a,b){return Object.prototype.toString.call(a)==="[object "+b+"]"}function d(a){return!!c(a,"Event")||/^\[object \w+Event\]$/.test(Object.prototype.toString.call(a))}function e(a){return c(a,"Error")}function f(a){return c(a,"HTMLScriptElement")}window.ErrorLogger=function(){function c(a,b,c){this.userId=a,this.production=b,this.premium=c,b?(this.service="www.pixiv.net",this.api="https://www.pixiv.net/rpc/js_error.php"):(this.service=location.host,this.api="/rpc/js_error.php")}return c.prototype.install=function(){var b=this;if(!a()){var c=!1;window.onerror=function(a,d,e,f,g){window.onerror=null,b.handle(a,d,e,f,g,c)};var d=function(a){e(a.reason)&&(c||(c=!0,setTimeout(function(){throw a.reason})))};window.onunhandledrejection=d,window.addEventListener&&window.addEventListener("unhandledrejection",d)}},c.prototype.time=function(a,b,c){this.send("js_time",location.href,0,a,b,c)},c.prototype.send=function(a,c,d,e,f,g,h){var i=encodeURIComponent;try{var j=b(a,!!h),k=["service="+i(this.service),"message="+i(j),"url="+i(""+c),"line="+i(""+d),"location="+i(location.href),"user_id="+i(this.userId),"premium="+this.premium];null!=e&&k.push("html_end_sec="+i(""+e),"dom_ready_sec="+i(""+(f||0)),"onload_sec="+i(""+(g||0))),(new Image).src=this.api+"?"+k.join("&")}catch(l){(new Image).src=this.api+"?service="+i(this.service)+"&message="+i("send error: "+l.message)+"&line="+i(""+(l.line||""))}},c.prototype.handle=function(a,b,c,d,e,f){if(b||0!==c){var g=null!=e?e:a;this.production?this.send(g,b,c,undefined,undefined,undefined,!!f):"undefined"!=typeof console&&console&&console.debug?"undefined"!=typeof navigator&&navigator.userAgent.match(/Firefox\//)&&console.error(g):alert(["[JavaScript Error]","",g,"",(b||"unknown")+":"+(c||"unknown"),"","---",location.href].join("\n"))}},c}()}();
+    </script><script>
+(function() {
+    var h = new ErrorLogger("",true,0);
+    delete window.ErrorLogger;
+    h.install();
+
+    window._time = function () { h.time.apply(h, arguments) };
+    window._send = function () { h.send.apply(h, arguments) };
+})()
+</script>
+    <link rel="stylesheet" href="https://source.pixiv.net/www/css/global.css?d6490247a90091bfd000b0483fa2b3a1">
+            <link rel="stylesheet" href="https://source.pixiv.net/www/css/global_2.css?92d5cf8162d9c25bf28f4f5051c1100e">
+        <link rel="stylesheet" href="https://source.pixiv.net/www/css/app.css?0f499e444c85b9d8ee96317b9066dcfd">
+
+<!--[if IE 8]>
+    <link rel="stylesheet" href="https://source.pixiv.net/www/css/ie.css?9955c9072470e7612f9192fb8238fa08">
+<![endif]-->
+<!--[if IE 9]>
+    <link rel="stylesheet" href="https://source.pixiv.net/www/css/ie9.css?e2871da6753d43533b513cdac2d82a38">
+<![endif]-->
+
+    <link rel="stylesheet" href="https://source.pixiv.net/www/css/test.css?1a6a58d7c53be41c9638aa16bf5066db">
+    <link rel="stylesheet" href="https://source.pixiv.net/www/css/pre-login.css?fab3b4a228e228ea6d4b4022077accd2">
+
+
+
+<!--[if lte IE 8]>
+    <script src="https://source.pixiv.net/www/js/lib/html5shiv/html5shiv.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+    <script src="https://source.pixiv.net/www/js/lib/svg4everybody/svg4everybody.ie8.js"></script>
+<!--<![endif]-->
+
+<script>
+    Object.defineProperty(window, 'bundle_public_path', {
+        value: "https:\/\/source.pixiv.net\/www\/js\/bundle\/"
+    })
+</script>
+
+<link rel="stylesheet" href="https://source.pixiv.net/www/js/bundle/app.d6af321915e5bc0c5becd8c3365fa1ae.css">
+<script src="https://source.pixiv.net/www/js/bundle/bootstrap.e9c1ab06c172df033bac.js" crossorigin="anonymous"></script>
+<script src="https://source.pixiv.net/www/js/bundle/lib.8cd4ebad0bbb0561432c.js" crossorigin="anonymous"></script>
+<script src="https://source.pixiv.net/www/js/bundle/colon.2e2ebeedd4f5e7bd31b5.js" crossorigin="anonymous"></script>
+<script src="https://source.pixiv.net/www/js/bundle/app.3e6a2613c633db92193e.js" crossorigin="anonymous"></script>
+
+<!--[if lte IE 9]>
+    <script src="https://source.pixiv.net/www/js/lib/ajaxhooks/xdr.js"></script>
+<![endif]-->
+
+<script>
+    pixiv.development = false;
+    pixiv.sourcePath = "https:\/\/source.pixiv.net\/www\/";
+    pixiv.commonSourcePath = "https:\/\/source.pixiv.net\/common\/";
+    pixiv.config.sketchUrlBase = "https:\/\/sketch.pixiv.net";
+    pixiv.context.token = "79e683bc8fe93945ef083915df017991";
+        </script>
+    <script>
+        pixiv.user.loggedIn = false;
+        
+        pixiv.ads = {};
+        pixiv.ads.is_active_www_illustup = false;
+    </script>
+
+<script>
+    
+var _gaq = _gaq || [];
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+
+    
+        if (window.pixiv && window.pixiv.tracking) {
+    
+        pixiv.tracking.URL = "\/member_illust.php?mode=medium\u0026illust_id=64154370\u0026type=illust";
+    
+        }
+    
+
+
+_gaq.push(['_setAccount', 'UA-1830249-3']);
+_gaq.push(['_setDomainName', 'pixiv.net']);
+
+
+
+
+if (window.pixiv) {
+    if (pixiv.user && pixiv.user.loggedIn) {
+        _gaq.push(['_setCustomVar', 1, 'login', 'yes', 3]);
+        _gaq.push(['_setCustomVar', 3, 'plan', pixiv.user.premium ? 'premium' : 'normal', 1]);
+        _gaq.push(['_setCustomVar', 5, 'gender', pixiv.user.gender, 1]);
+        _gaq.push(['_setCustomVar', 6, 'user_id', pixiv.user.id, 1]);
+        _gaq.push(['_setCustomVar', 12, 'illustup_flg', pixiv.user.illustup_flg ? 'uploaded' : 'not_uploaded', 3]);
+    } else {
+        _gaq.push(['_setCustomVar', 1, 'login', 'no', 3]);
+    }
+
+    
+    
+
+    (function() {
+        // クッキーあれば、一回でもログインした人とみなす
+        if (pixiv.user && window.colon && colon.storage) {
+            var cookie_name = 'login_ever';
+
+            if (colon.storage.cookie(cookie_name)) {// 一度でもログインしたことある
+                _gaq.push(['_setCustomVar', 2, 'login ever', 'yes', 1]);
+
+            } else if (pixiv.user.loggedIn) { // ログインしてる
+                colon.storage.cookie(cookie_name, 'yes', {
+                    expires: 1000 * 60 * 60 * 24 * 365 * 5, // 5 years
+                    domain: location.hostname
+                });
+                _gaq.push(['_setCustomVar', 2, 'login ever', 'yes', 1]);
+
+            } else { // ログインしたこと無いし、ログインしてもない
+                _gaq.push(['_setCustomVar', 2, 'login ever', 'no', 1]);
+            }
+
+            
+            var p_ab_id = colon.storage.cookie('p_ab_id');
+            var p_ab_id_2 = colon.storage.cookie('p_ab_id_2');
+            _gaq.push(['_setCustomVar', 9, 'p_ab_id', p_ab_id, 1]);
+            _gaq.push(['_setCustomVar', 10, 'p_ab_id_2', p_ab_id_2, 1]);
+        }
+    } ())
+
+    _gaq.push(['_setCustomVar', 11, 'lang', "ja", 1]);
+}
+
+
+
+if (window.pixiv && pixiv.tracking && pixiv.tracking.URL) {
+    _gaq.push(['_trackPageview', pixiv.tracking.URL]);
+} else {
+    _gaq.push(['_trackPageview']);
+}
+
+
+</script>
+<script>
+    
+if (window.pixiv && !pixiv.text) pixiv.text = {};
+
+
+    pixiv.text.modalDefaultCaption = '他にも便利な機能がいっぱい！';
+
+    pixiv.text.registerMypixiv = 'pixivに登録して<br>ユーザーとマイピクになろう!!!!';
+    pixiv.text.loginMypixiv    = 'pixivにログインして<br>ユーザーにマイピク申請しよう!!!!';
+
+    pixiv.text.registerFavorite = 'pixivに登録して<br>ユーザーをフォローしよう!!!!';
+    pixiv.text.loginFavorite    = 'pixivにログインして<br>ユーザーをフォローしよう!!!!';
+
+    pixiv.text.registerMessage = 'pixivに登録して<br>ユーザーにメッセージを送ろう!!!!';
+    pixiv.text.loginMessage    = 'pixivにログインして<br>ユーザーにメッセージを送ろう!!!!';
+
+    pixiv.text.registerImage = 'pixivに登録すると<br>さらに大きな画像で閲覧できる!!!!';
+
+    pixiv.text.registerBookmark = 'pixivに登録して<br>気に入った作品をブックマークに追加しよう!!!!';
+    pixiv.text.loginBookmark    = 'pixivにログインして<br>気に入った作品をブックマークに追加しよう!!!!';
+
+    pixiv.text.registerRate = 'pixivに登録して<br>気に入った作品をいいね！しよう!!!!';
+    pixiv.text.loginRate    = 'pixivにログインして<br>気に入った作品にいいね！を送ろう!!!!';
+
+    pixiv.text.overaccess = 'もっと見るならpixivの会員になってさらに快適に!!!';
+    pixiv.text.overaccessCaption = '大きな画像で閲覧できたり、お気に入り作品をブックマーク!!';
+
+    pixiv.text.visit = 'まずは無料登録！<br>pixivに登録して、<br>お絵かきをもっと楽しもう!!!!';
+    pixiv.text.searchModalPremium = 'pixivプレミアムなら人気の作品がすぐにみつかる！';
+    pixiv.text.searchModalPremiumCaption = '1番人気の作品を一発検索！<br>1日、1週間、1ヶ月の期間で絞り込むこともできます。';
+
+    pixiv.text.reuploadModalPremiumCaption = '塗り忘れを見つけても安心！<br>コメントやいいね！を消さずに再投稿できます！';
+
+    pixiv.text.reuploadModalPremium = 'pixivプレミアムになると<br>作品を再投稿できます！';
+    pixiv.text.captionModalPremiumCaption = '作品の説明などに利用するキャプションの、文字色や太さを変更して装飾することができます。';
+
+    pixiv.text.bookmarkRange = 'pixivプレミアムで<br>作品をブックマーク数<br>ごとに<br>絞り込み表示できます';
+</script>
+
+<script>
+pixiv.context.popular_search_trial_cookie_name = "popular_search_trial_cookie_12";
+pixiv.context.popular_search_trial_is_target_user = false;
+</script>
+
+
+
+
+    </head>
+<body class="not-logged-in">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-55FG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-55FG');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+<ul class="_toolmenu"><li id="back-to-top" class="item ui-scroll"><i class="_icon-12 _icon-up"></i></li></ul>
+    <div id="toolbar-items">
+        <div class="toolbar-item">
+            <span class="label ui-modal-trigger" data-target="_feedback-form-modal" data-z-index="1002" aria-haspopup="true">
+                フィードバックを送る
+            </span>
+        </div>
+    </div>
+
+<div id="ui-tooltip-container" class="_hidden">
+    <div class="wrapper">
+        <div class="content"></div>
+        <div class="nipple"></div>
+    </div>
+</div>
+
+<div id="status-bar"></div>
+
+
+<script>
+pixiv.text.today = '本日';
+pixiv.text.yesterday = '昨日';
+pixiv.text.notifications = 'メッセージ・ポップボード';
+
+pixiv.text.dailyRanking = 'デイリーランキング';
+pixiv.text.weeklyRanking = 'ウィークリーランキング';
+pixiv.text.monthlyRanking = 'マンスリーランキング';
+pixiv.text.rookieRanking = 'ルーキーランキング';
+pixiv.text.daily_r18Ranking = 'R-18 デイリーランキング';
+pixiv.text.r18gRanking = 'R-18G ランキング';
+pixiv.text.maleRanking = '男子に人気ランキング';
+pixiv.text.femaleRanking = '女子に人気ランキング';
+</script>
+    <div id="register-introduction-modal" class="introduction-modal-container"><section class="introduction-modal"><div class="close ui-modal-close"></div><h1 class="title"></h1><a href="https://accounts.pixiv.net/gigya-auth?mode=signin&amp;provider=twitter&amp;source=pc&amp;view_type=page&amp;return_to=http%3A%2F%2Fwww.pixiv.net%2Fmember_illust.php%3Fmode%3Dmedium%26illust_id%3D64154370&amp;ref=introduction_modal_twitter"class="twitter-login"data-provider-id="twitter"style="text-decoration: none;"><button type="submit" class="button-container twitter"><div class="label layout-cell">Twitterアカウントで登録</div><div class="layout-cell"><i class="_icon sprites-go"></i></div></button></a><a href="https://accounts.pixiv.net/gigya-auth?mode=signin&amp;provider=googleplus&amp;source=pc&amp;view_type=page&amp;return_to=http%3A%2F%2Fwww.pixiv.net%2Fmember_illust.php%3Fmode%3Dmedium%26illust_id%3D64154370&amp;ref=introduction_modal_google"class="google-login"data-provider-id="google"style="text-decoration: none;"><button type="submit" class="button-container google"><div class="label layout-cell">Googleアカウントで登録</div><div class="layout-cell"><i class="_icon sprites-go"></i></div></button></a><a href="https://accounts.pixiv.net/gigya-auth?mode=signin&amp;provider=facebook&amp;source=pc&amp;view_type=page&amp;return_to=http%3A%2F%2Fwww.pixiv.net%2Fmember_illust.php%3Fmode%3Dmedium%26illust_id%3D64154370&amp;ref=introduction_modal_facebook"class="facebook-login"data-provider-id="facebook"style="text-decoration: none;"><button type="submit" class="button-container facebook"><div class="label layout-cell">Facebookアカウントで登録</div><div class="layout-cell"><i class="_icon sprites-go"></i></div></button></a><a href="https://accounts.pixiv.net/signup?return_to=http%3A%2F%2Fwww.pixiv.net%2Fmember_illust.php%3Fmode%3Dmedium%26illust_id%3D64154370&amp;source=pc&amp;view_type=page&amp;ref=introduction_modal" class="button-container"><div class="label layout-cell"><div class="copy">ちょっと入力するだけ！ 簡単！</div><br />pixiv新規登録(無料)</div><div class="layout-cell"><i class="_icon sprites-go"></i></div></a></section></div><div id="login-introduction-modal" class="introduction-modal-container"><section class="introduction-modal"><div class="close ui-modal-close"></div><h1 class="title"></h1><p class="caption">他にも便利な機能がいっぱい！</p><a href="https://www.pixiv.net/login.php" class="button-container login"><div class="label layout-cell">pixivへログイン</div><div class="layout-cell"><i class="_icon sprites-go"></i></div></a>    <li class="auth-login large">
+        <a href="https://accounts.pixiv.net/gigya-auth?mode=signin&amp;provider=googleplus&amp;source=pc&amp;view_type=page&amp;return_to=http%3A%2F%2Fwww.pixiv.net%2Fmember_illust.php%3Fmode%3Dmedium%26illust_id%3D64154370&amp;ref=introduction_modal_google"class="google-login"data-provider-id="google"style="text-decoration: none;"><button type="submit" class="button-container google"><div class="label layout-cell">Googleアカウントで登録</div><div class="layout-cell"><i class="_icon sprites-go"></i></div></button></a>    </li>
+    <li class="auth-login large">
+        <a href="https://accounts.pixiv.net/gigya-auth?mode=signin&amp;provider=facebook&amp;source=pc&amp;view_type=page&amp;return_to=http%3A%2F%2Fwww.pixiv.net%2Fmember_illust.php%3Fmode%3Dmedium%26illust_id%3D64154370&amp;ref=introduction_modal_facebook"class="facebook-login"data-provider-id="facebook"style="text-decoration: none;"><button type="submit" class="button-container facebook"><div class="label layout-cell">Facebookアカウントで登録</div><div class="layout-cell"><i class="_icon sprites-go"></i></div></button></a>    </li>
+            <li class="auth-login large">
+            <a href="https://accounts.pixiv.net/gigya-auth?mode=signin&amp;provider=twitter&amp;source=pc&amp;view_type=page&amp;return_to=http%3A%2F%2Fwww.pixiv.net%2Fmember_illust.php%3Fmode%3Dmedium%26illust_id%3D64154370&amp;ref=introduction_modal_twitter"class="twitter-login"data-provider-id="twitter"style="text-decoration: none;"><button type="submit" class="button-container twitter"><div class="label layout-cell">Twitterアカウントで登録</div><div class="layout-cell"><i class="_icon sprites-go"></i></div></button></a>        </li>
+    </section></div>
+    <div id="premium-introduction-modal" class="introduction-modal-container">
+        <section class="introduction-modal">
+            <div class="close ui-modal-close"></div>
+            <h1 class="title" style="margin-bottom:12px;"></h1>
+                                    <p class="caption">他にも作品の再投稿や広告非表示など便利な機能が盛りだくさん</p>
+            <a href="/premium.php" class="button-container premium ui-modal-close" target="_blank">
+                <div class="label layout-cell">pixivプレミアムに登録する</div>
+                <div class="layout-cell">
+                    <i class="_icon sprites-go"></i>
+                </div>
+            </a>
+                    </section>
+    </div>
+
+    <div id="premium-introduction-image-modal" class="introduction-modal-container">
+        <section class="introduction-modal introduction-image-modal">
+            <div class="close ui-modal-close"></div>
+                        <div class="banner-background">
+                    
+                    <a href="/premium.php?ref=popular_d_popup&amp;page=visitor">
+                    <div class="clickable-area"></div>
+                    <img class="js-lazyload" data-src="https://source.pixiv.net/www/images/premium_popup/popular_search_popup.png?20170123" alt="" width="600" height="318">
+                </a>
+            </div>
+        </section>
+    </div>
+
+        
+        
+<div id="wrapper">
+    <noscript>
+        <div style="background-color:#F2F4F6;text-align:center;margin-bottom:10px;padding:5px;">
+            <p style="color:#ff0000;">ウェブブラウザのJavaScript(ジャバスクリプト)の設定が無効になっています。<br>Javascriptが無効になっていると、サイト内の一部機能がご利用いただけません。</p>
+        </div>
+    </noscript>
+
+        
+    <script>pixiv.context.illustId    = "64154370";pixiv.context.illustTitle = "2017\u3000\u6691\u4e2d\u898b\u821e\u3044";pixiv.context.userId      = "188360";pixiv.context.userName    = "\u745a\u6a3d\uff08\u3053\u305f\u308b)";pixiv.text.AuthorName = "\u745a\u6a3d\uff08\u3053\u305f\u308b)";pixiv.context.explicit    = false;pixiv.context.emojiSeries      = [{"id":101,"name":"normal"},{"id":102,"name":"surprise"},{"id":103,"name":"serious"},{"id":104,"name":"heaven"},{"id":105,"name":"happy"},{"id":106,"name":"excited"},{"id":107,"name":"sing"},{"id":108,"name":"cry"},{"id":201,"name":"normal2"},{"id":202,"name":"shame2"},{"id":203,"name":"love2"},{"id":204,"name":"interesting2"},{"id":205,"name":"blush2"},{"id":206,"name":"fire2"},{"id":207,"name":"angry2"},{"id":208,"name":"shine2"},{"id":209,"name":"panic2"},{"id":301,"name":"normal3"},{"id":302,"name":"satisfaction3"},{"id":303,"name":"surprise3"},{"id":304,"name":"smile3"},{"id":305,"name":"shock3"},{"id":306,"name":"gaze3"},{"id":307,"name":"wink3"},{"id":308,"name":"happy3"},{"id":309,"name":"excited3"},{"id":310,"name":"love3"},{"id":401,"name":"normal4"},{"id":402,"name":"surprise4"},{"id":403,"name":"serious4"},{"id":404,"name":"love4"},{"id":405,"name":"shine4"},{"id":406,"name":"sweat4"},{"id":407,"name":"shame4"},{"id":408,"name":"sleep4"},{"id":501,"name":"heart"},{"id":502,"name":"teardrop"},{"id":503,"name":"star"}];</script>
+    <script id="template-show-work-more-register-text" type="text/x-handlebars-template">
+        pixivの会員になって<br>{{author_name}}さんの作品をもっと見よう!!!!
+    </script>
+    <script id="template-show-work-more-login-text" type="text/x-handlebars-template">
+        pixivにログインして<br>{{author_name}}さんの作品をもっと見よう!!!!
+    </script>
+    <script>
+        pixiv.text.showWorkMoreRegister = Handlebars.compile(jQuery('#template-show-work-more-register-text').html())({'author_name': pixiv.text.AuthorName});
+        pixiv.text.showWorkMoreLogin = Handlebars.compile(jQuery('#template-show-work-more-login-text').html())({'author_name': pixiv.text.AuthorName});
+    </script>
+<div class="newindex"><div class="introduction-container"><section class="introduction"><h1 class="newindex-title"><a href="/" class="_icon sprites-logo">イラスト コミュニケーションサービス[pixiv(ピクシブ)]</a></h1><div class="newindex-message"><h2 class="welcome">pixivへようこそ</h2><div class="description"><p>この作品 「2017　暑中見舞い」 は
+        「オリジナル」「獣耳」
+    等のタグがつけられた作品です。
+</p><p style="margin-top:1em">そんな黒い格好しているんだ、当然暑いのだろう襟元を開いて、少しでも涼しくしようと...</p></div></div><form method="get" action="/search.php" class="search-small in-header"><input type="hidden" name="s_mode" value="s_tag"><input type="text" name="word" value="" placeholder="検索"><input type="submit" class="submit" value="検索"></form><div class="newindex-signup"><div class="content"><a href="https://accounts.pixiv.net/signup?return_to=http%3A%2F%2Fwww.pixiv.net%2Fmember_illust.php%3Fmode%3Dmedium%26illust_id%3D64154370&amp;source=pc&amp;view_type=page&amp;ref=www_header_member_illust&amp;refab=red" class="ui-button _signup">新規登録</a><a href="https://accounts.pixiv.net/login?return_to=http%3A%2F%2Fwww.pixiv.net%2Fmember_illust.php%3Fmode%3Dmedium%26illust_id%3D64154370&amp;source=pc&amp;view_type=page" class="ui-button _login">ログイン</a></div></div></section></div><div class="newindex-inner"><div class="newindex-bg-container"><div class="cool-work"><div class="cool-work-main"><div class="titlearea"><div class="usericon"><a href="member.php?id=188360"><img src="https://i.pximg.net/user-profile/img/2016/01/11/04/06/13/10367791_2d15029793116c6dba35ef4fb3d59912_50.jpg" alt="瑚樽（こたる)" title="瑚樽（こたる)" /></a></div><div class="userdata"><h1 class="title">2017　暑中見舞い</h1><h2 class="name"><a href="member.php?id=188360">瑚樽（こたる)</a></h2><span class="date">2017年7月31日 23:11</span></div></div><div class="img-container"><a href="https://accounts.pixiv.net/signup?source=pc&amp;view_type=page&amp;ref=medium_image_cool" class="require-register medium-image  _work " data-title="registerImage"><img src="https://i.pximg.net/c/600x600/img-master/img/2017/07/31/23/11/58/64154370_p0_master1200.jpg" alt="2017　暑中見舞い/瑚樽（こたる)" title="2017　暑中見舞い/瑚樽（こたる)" border="0" /><div class="zoom-message"><span class="zoom-message-text">クリックで拡大表示</span></div></a></div><div id="64154370_caption_short" class="caption">そんな黒い格好しているんだ、当然暑いのだろう襟元を開いて、少しでも涼しくしようとしている（…着替えればいいじゃないか）思っては見るけど、はだけた着物から見える素肌がまぶしくて、あえて言わないふと、怪訝そうな瞳が僕を見上げていた「…あげないよ？」どうやら彼女は、僕がその溶けはじめた棒アイスを欲して...<a class="caption_read_more js-legacy-toggle-caption" data-id="64154370">続きを見る</a></div><div id="64154370_caption_long" class="caption _hidden">そんな黒い格好しているんだ、当然暑いのだろう<br />襟元を開いて、少しでも涼しくしようとしている<br />（…着替えればいいじゃないか）<br />思っては見るけど、はだけた着物から見える素肌がまぶしくて、あえて言わない<br />ふと、怪訝そうな瞳が僕を見上げていた<br />「…あげないよ？」<br />どうやら彼女は、僕がその溶けはじめた棒アイスを欲しているように思えたようだ。<br />僕は…<br /><br />◆メロンブックス様で委託させてもらっているC92新刊の特典クリアファイルになります。<br />なんと、A3マイクロファイバータオルVerも作っていただけるそうです。よろしくお願いします！<a class="caption_read_more js-legacy-toggle-caption" data-id="64154370">閉じる</a></div><div class="tag_area" id="tag_area"><span class="tags-container"><ul class="inline-list"><li class="tag"><a class="tag-icon">c</a><a href="/tags.php?tag=%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB" class="text">オリジナル</a><a href="https://dic.pixiv.net/a/%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB" target="_blank" class="icon-pixpedia _ui-tooltip" data-tooltip="「オリジナル」 に関する記事"></a><a href="https://booth.pm/ja/search/%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB" target="_blank" class="_ui-tooltip" data-tooltip="「オリジナル」の商品"><i class="_icon sprites-icon-booth-tag"></i></a></li><li class="tag"><a class="tag-icon">c</a><a href="/tags.php?tag=%E7%8D%A3%E8%80%B3" class="text">獣耳</a><a href="https://dic.pixiv.net/a/%E7%8D%A3%E8%80%B3" target="_blank" class="icon-pixpedia _ui-tooltip" data-tooltip="「獣耳」 に関する記事"></a><a href="https://booth.pm/ja/search/%E7%8D%A3%E8%80%B3" target="_blank" class="_ui-tooltip" data-tooltip="「獣耳」の商品"><i class="_icon sprites-icon-booth-tag"></i></a></li></ul></span><script id="template-work-tags" type="text/x-handlebars-template">
+                            {{#if tags}}
+                                <ul class="tags">
+                                    {{#tags}}
+                                        <li class="tag">
+                                            <a href="/tags.php?tag={{url_encode tag}}" class="portal">c</a>
+                                            {{#is_myself}}<span class="self-tag">*</span>{{/is_myself}}
+                                            <a href="/search.php?s_mode=s_tag_full&word={{url_encode tag}}">{{tag}}</a>
+                                            <a href="https://dic.pixiv.net/a/{{url_encode tag}}" target="_blank" class="icon-pixpedia{{#unless is_pixpedia_article_exists}}-no-item{{/unless}} _ui-tooltip" data-tooltip="{{#if is_pixpedia_article_exists}}「{{tag}}」に関する記事{{else}}「{{tag}}」に関する記事を作成{{/if}}"></a>
+                                        </li>
+                                    {{/tags}}
+                                </ul>
+                            {{else}}
+                                <span class="no-item">登録タグはありません</span>
+                            {{/if}}
+                        </script></div><div class="comment-list">    <span class="comment-data"><a class="user-name" href="member.php?id=5282657">brownie</a>2017年7月31日 23:23</span><span class="comment-body" data-comment-id="70070408">ooo. haven&#039;t seen much of this character recently</span>    <span class="comment-data"><a class="user-name" href="member.php?id=24684684">フォーム</a>2017年7月31日 23:13</span><span class="comment-body" data-comment-id="70070059">可愛くて衣装も似合ってて好きです！
+この子と一緒に祭りに行きます！</span></div><nav class="breadcrumb"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">pixiv</span></a></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/tags.php?tag=%E5%89%B5%E4%BD%9C" itemprop="url"><span itemprop="title">創作</span></a></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/tags.php?tag=%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB" itemprop="url"><span itemprop="title">オリジナル</span></a></span></nav><div style="padding:0;margin:0;overflow:hidden;"><div align="center">
+                        <div class="ads_area">
+                                                        <script>
+            
+                (function () {
+                    try {
+                        var id = 'ads_dokoiku_iframe_' + "1" + "0";
+                        document.write('<iframe style="clear:both;display:block;width:100%;" id="'+id+'" class="ads_dokoiku_iframe" src="about:blank" height="68" scrolling="no" frameborder="0"></iframe>');
+                        var ifr = document.getElementById(id).contentWindow;
+                        
+                        
+                        ifr.document.open();
+                        ifr.document.close();
+                        var content = (
+                            '<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8">'
+                            + '<style>body{font-family:"メイリオ","Meiryo",Sans-Serif;}ul{margin:0;padding:0;}a{color:#258FB8}.ads_anchor{text-decoration:none;}</style>'
+                            + '<body class="ads_area" style="padding:0;margin:0;font-size:12px;line-height:1.5;background-color:#fff;">'
+                            + '<script>setTimeout(function(){document.write(' + "\u0022\\u003Cstyle type=\\u0022text\\\/css\\u0022\\u003E\\n    \\n        .one_column .ads_area_no_margin{\\n            background-color: #FFFFFF;\\n            text-align: center;\\n            width: 968px;\\n        }\\n        .ads_anchor {\\n            outline: none;\\n        }\\n\\n        .ads_anchor:hover .ads_value,\\n        .ads_anchor:hover {\\n            text-decoration: none;\\n            cursor: pointer;\\n            background-color: #FFFFFF;\\n        }\\n        .ads_inner .ads_anchor:hover {\\n            cursor: pointer;\\n            background-color: #FFFFCC;\\n        }\\n\\n        .ads_value {\\n            width: 100%;\\n            text-decoration: none;\\n            text-align: left;\\n        }\\n\\n        .ads_area {\\n            position: relative;\\n            margin: 2px 0;\\n            padding: 2px 0;\\n        }\\n        .ads_value .ads_inner {\\n    \\n            padding: 25px 0px 25px 20px;\\n    \\n            line-height: 14px;\\n        }\\n\\n        .ads_area_y {\\n        \\n                    \\n            position: relative;\\n            margin: 10px 0px 10px 0px;\\n            padding: 0px 0px 0px 11px;\\n        }\\n\\n        .ads_pr {\\n            padding: 0;\\n            float: left;\\n            color:#A0A0A0;\\n            font-size:13px;\\n            padding-right: 10px;\\n        }\\n\\n        .ads_anchor .ads_title,\\n        .ads_anchor:hover .ads_title {\\n            color: #258FB8;\\n            font-size: 15px;\\n            font-weight: bold;\\n            text-decoration: underline;\\n\\n\\n            display: inline;\\n            float: left;\\n            padding-right: 10px;\\n        }\\n\\n        .ads_value .ads_desc {\\n            color: #000000;\\n            display: inline;\\n            float: left;\\n            font-size: 13px;\\n            padding: 0;\\n        }\\n        .ads_value .ads_link {\\n            color: #008000;\\n            font-size:13px;\\n            display: none;\\n        }\\n\\n        .ads_value .ads_clear {\\n            display: block;\\n            clear: both;\\n        }\\n\\n        .ads_sponcer {\\n            color: #A0A0A0;\\n            font-size: 13px;\\n            position: absolute;\\n            bottom: 0;\\n            right: 0;\\n        }\\n        .ads_sponcer a,\\n        .ads_sponcer a:hover {\\n            color: #A0A0A0;\\n            text-decoration: underline;\\n        }\\n    \\n\\u003C\\\/style\\u003E\\u003Cscript\\u003E\\nwindow.pixivComicHotWorks = [{\\u0022title\\u0022:\\u0022\\\\u30cb\\\\u30fc\\\\u30c1\\\\u30a7\\\\u5148\\\\u751f\\\\uff5e\\\\u30b3\\\\u30f3\\\\u30d3\\\\u30cb\\\\u306b\\\\u3001\\\\u3055\\\\u3068\\\\u308a\\\\u4e16\\\\u4ee3\\\\u306e\\\\u65b0\\\\u4eba\\\\u304c\\\\u821e\\\\u3044\\\\u964d\\\\u308a\\\\u305f\\\\uff5e\\u0022,\\u0022desc\\u0022:\\u0022\\\\u300c\\\\u795e\\\\u306f\\\\u6b7b\\\\u3093\\\\u3060\\\\u300d\\\\r\\\\n\\\\u3055\\\\u3068\\\\u308a\\\\u7cfb\\\\u306e\\\\u5927\\\\u578b\\\\u65b0\\\\u4eba\\\\u3001\\\\u30cb\\\\u30fc\\\\u30c1\\\\u30a7\\\\u5148\\\\u751f\\\\u3042\\\\u3089\\\\u308f\\\\u308b!!\\\\r\\\\n\\\\r\\\\ntwitter\\\\u3067\\\\u8a08300\\\\u4e07view!!\\\\r\\\\n\\\\u30cd\\\\u30c3\\\\u30c8\\\\u3092\\\\u9a12\\\\u7136\\\\u3068\\\\u3055\\\\u305b\\\\u305f\\\\u3001\\\\u3068\\\\u3042\\\\u308b\\\\u30b3\\\\u30f3\\\\u30d3\\\\u30cb\\\\u5e97\\\\u54e1\\\\u306e\\\\u3084\\\\u308a\\\\u3068\\\\u308a\\\\u304c\\\\u885d\\\\u6483\\\\u306e\\\\u30b3\\\\u30df\\\\u30ab\\\\u30e9\\\\u30a4\\\\u30ba!!\\\\u0022\\u0022,\\u0022id\\u0022:654},{\\u0022title\\u0022:\\u0022\\\\u611b\\\\u306f\\\\u3069\\\\u3053\\\\u3060\\u0022,\\u0022desc\\u0022:\\u0022\\\\u5e02\\\\u5f79\\\\u6240\\\\u52e4\\\\u3081\\\\u306e\\\\u5185\\\\u85e4\\\\u6634\\\\u304c\\\\u3001\\\\u8d64\\\\u3093\\\\u574a\\\\u306e\\\\u3053\\\\u308d\\\\u304b\\\\u3089\\\\u5927\\\\u5207\\\\u306b\\\\u898b\\\\u5b88\\\\u3063\\\\u3066\\\\u304d\\\\u305f\\\\u7965\\\\u6587\\\\u304c\\\\u5927\\\\u5b66\\\\u3092\\\\u5352\\\\u696d\\\\u3057\\\\u5e30\\\\u90f7\\\\u3057\\\\u305f\\\\u3002\\\\u7965\\\\u6587\\\\u306f\\\\u3001\\\\u698a\\\\u5bb6\\\\u306e\\\\u6b21\\\\u671f\\\\u5f53\\\\u4e3b\\\\u3002\\\\u4eca\\\\u3067\\\\u306f\\\\u6634\\\\u306e\\\\u80cc\\\\u3092\\\\u8ffd\\\\u3044\\\\u8d8a\\\\u3059\\\\u307b\\\\u3069\\\\u6210\\\\u9577\\\\u3057\\\\u305f\\\\u3051\\\\u3069\\\\u3001\\\\u6634\\\\u306b\\\\u3068\\\\u3063\\\\u3066\\\\u306f\\\\u300c\\\\u50d5\\\\u304c\\\\u304a\\\\u307e\\\\u3082\\\\u308a\\\\u3059\\\\u308b\\\\u3088\\\\u3001\\\\u305a\\\\u30fc\\\\u3063\\\\u3068\\\\u300d\\\\u3068\\\\u8a93\\\\u3063\\\\u305f\\\\u2026\\u0022,\\u0022id\\u0022:3722},{\\u0022title\\u0022:\\u0022\\\\u65b0\\\\u7c73\\\\u59c9\\\\u59b9\\\\u306e\\\\u3075\\\\u305f\\\\u308a\\\\u3054\\\\u306f\\\\u3093\\u0022,\\u0022desc\\u0022:\\u0022\\\\u4e21\\\\u89aa\\\\u306e\\\\u518d\\\\u5a5a\\\\u306b\\\\u3088\\\\u308a\\\\u3001\\\\u7a81\\\\u7136\\\\u59c9\\\\u59b9\\\\u3068\\\\u306a\\\\u3063\\\\u305f\\\\u30b5\\\\u30c1\\\\u3068\\\\u3042\\\\u3084\\\\u308a\\\\u3002\\\\r\\\\n\\\\r\\\\n\\\\u8a00\\\\u8449\\\\u6570\\\\u304c\\\\u5c11\\\\u306a\\\\u304f\\\\u76ee\\\\u3064\\\\u304d\\\\u306e\\\\u92ed\\\\u3044\\\\u3042\\\\u3084\\\\u308a\\\\u306b\\\\u5bfe\\\\u3057\\\\u3001\\\\u30b5\\\\u30c1\\\\u306f\\\\u7269\\\\u6016\\\\u3058\\\\u3057\\\\u3001\\\\u3053\\\\u308c\\\\u304b\\\\u3089\\\\u306e\\\\u540c\\\\u5c45\\\\u751f\\\\u6d3b\\\\u306b\\\\u5927\\\\u304d\\\\u306a\\\\u4e0d\\\\u5b89\\\\u3092\\\\u611f\\\\u3058\\\\u3066\\\\u3057\\\\u307e\\\\u3046\\\\u3002\\\\u305d\\\\u3093\\\\u306a\\\\u6642\\\\u3001\\\\u6d77\\\\u5916\\\\u51fa\\\\u5f35\\\\u4e2d\\\\u306e\\\\u7236\\\\u89aa\\\\u304b\\\\u3089\\\\u5c4a\\\\u3044\\\\u305f\\\\u306e\\\\u306f\\\\u751f\\\\u2026\\u0022,\\u0022id\\u0022:3287}];\\n\\u003C\\\/script\\u003E\\n\\n\\u003Cscript\\u003E\\nwindow.pixivComicAds = [];\\nif (window.pixivComicHotWorks) {\\n  pixivComicAds = pixivComicAds.concat(pixivComicHotWorks);\\n}\\nwindow.documentWritePixivComicAd = function() {\\n  try {\\n    if (window.pixivComicAds) {\\n      var ads = [];\\n      var pixiv = window.pixiv;\\n      if (!pixiv) {\\n        try {\\n          pixiv = window.parent.pixiv;\\n        } catch (e) {}\\n      }\\n      if (pixiv \\u0026\\u0026 pixiv.user \\u0026\\u0026 pixiv.user.gender) {\\n        var seg = pixiv.user.gender === \\u0027male\\u0027 ? 1 : pixiv.user.gender === \\u0027female\\u0027 ? 2 : 0;\\n        for (var i = 0, l = pixivComicAds.length; i \\u003C l; i++) {\\n          var ad = pixivComicAds[i];\\n          if (!ad.seg || ad.seg === seg) {\\n            ads.push(ad);\\n          }\\n        }\\n      }\\n      if (ads.length === 0) {\\n        ads = pixivComicAds;\\n      }\\n      var ad = ads[Math.floor(Math.random() * 10000) % ads.length];\\n      var link;\\n      if (!ad.type || ad.type === \\u0027w\\u0027) {\\n        link = \\u0027https:\\\/\\\/comic.pixiv.net\\\/works\\\/\\u0027 + ad.id + \\u0027?ads=tx-w\\u0027 + ad.id;\\n      } else if (ad.type === \\u0027m\\u0027) {\\n        link = \\u0027https:\\\/\\\/comic.pixiv.net\\\/magazines\\\/\\u0027 + ad.id + \\u0027?ads=tx-m\\u0027 + ad.id;\\n      }\\n      document.write(\\n        \\u0027\\u0027\\n        + \\u0027\\u003Ca class=\\u0022ads_anchor\\u0022 target=\\u0022_blank\\u0022 href=\\u0022\\u0027 + link + \\u0027\\u0022\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_value\\u0022 style=\\u0022padding-top:5px; padding-bottom:5px;\\u0022\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_inner\\u0022 style=\\u0022padding-top:5px; padding-bottom:5px;\\u0022\\u003E\\u0027\\n        + \\u0027\\u003Cspan class=\\u0022ads_pr\\u0022\\u003E\\u3010PR\\u3011\\u003C\\\/span\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_title\\u0022 style=\\u0022margin-bottom:5px;\\u0022\\u003Epixiv\\u30b3\\u30df\\u30c3\\u30af\\u3067\\u300e\\u0027 + ad.title + \\u0027\\u300f\\u3092\\u8aad\\u3082\\u3046\\uff01\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003Cbr\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_desc\\u0022 style=\\u0022display: block; float: none; clear: both; padding-top: 1px; padding-bottom: 1px;\\u0022\\u003E\\u0027 + ad.desc + \\u0027\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_link\\u0022 style=\\u0022display: block; float: none; clear: both; padding-top: 0px; padding-bottom: 1px;\\u0022\\u003Ecomic.pixiv.net\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_clear\\u0022\\u003E\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003C\\\/a\\u003E\\u0027\\n      );\\n      return;\\n    }\\n  } catch(e) {\\n  }\\n  document.write(\\n    \\u0027\\u0027\\n    + \\u0027\\u003Ca class=\\u0022ads_anchor\\u0022 target=\\u0022_blank\\u0022 href=\\u0022https:\\\/\\\/comic.pixiv.net\\\/?ads=tx\\u0022\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_value\\u0022 style=\\u0022padding-top:5px; padding-bottom:5px;\\u0022\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_inner\\u0022 style=\\u0022padding-top:5px; padding-bottom:5px;\\u0022\\u003E\\u0027\\n    + \\u0027\\u003Cspan class=\\u0022ads_pr\\u0022\\u003E\\u3010PR\\u3011\\u003C\\\/span\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_title\\u0022\\u003Epixiv\\u30b3\\u30df\\u30c3\\u30af\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003Cbr\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_desc\\u0022 style=\\u0022display: block; float: none; clear: both; padding-top: 1px; padding-bottom: 1px;\\u0022\\u003Epixiv\\u30b3\\u30df\\u30c3\\u30af\\u3067\\u6f2b\\u753b\\u3092\\u7121\\u6599\\u3067\\u8a66\\u3057\\u8aad\\u307f\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_link\\u0022 style=\\u0022display: block; float: none; clear: both; padding-top: 0px; padding-bottom: 1px;\\u0022\\u003Ecomic.pixiv.net\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_clear\\u0022\\u003E\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003C\\\/a\\u003E\\u0027\\n  );\\n};\\n\\u003C\\\/script\\u003E\\n\\n\\u003Cscript\\u003E\\n\\nvar ads_dokoiku_notfound_count = 0;\\nfunction ads_dokoiku_callback_make(apikey) {\\n    return function(data) {\\n        for (var i = 0, l = data.ads.length; i \\u003C l; ++i) {\\n            var ads = data.ads[i];\\n\\n            \\n            if (ads.adType == \\u0027u\\u0027) {\\n                \\n                \\\/* \\u4e00\\u6642\\u7684\\u306bpixiv \\u30b3\\u30df\\u30c3\\u30af\\u5e83\\u544a\\u306e\\u4ee3\\u308f\\u308a\\u306bYDN\\u3092\\u914d\\u4fe1\\u3059\\u308b\\n                if (window.documentWritePixivComicAd) {\\n                    documentWritePixivComicAd();\\n                } else {\\n                    document.write(\\n                        \\u0027\\u0027\\n                        + \\u0027\\u003Ca class=\\u0022ads_anchor\\u0022 target=\\u0022_blank\\u0022 href=\\u0022https:\\\/\\\/comic.pixiv.net\\\/?ads=tx\\u0022\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_value\\u0022\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_inner\\u0022\\u003E\\u0027\\n                        + \\u0027\\u003Cspan class=\\u0022ads_pr\\u0022\\u003E\\u3010PR\\u3011\\u003C\\\/span\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_title\\u0022\\u003Epixiv\\u30b3\\u30df\\u30c3\\u30af\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003Cbr\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_desc\\u0022\\u003Epixiv\\u30b3\\u30df\\u30c3\\u30af\\u3067\\u6f2b\\u753b\\u3092\\u7121\\u6599\\u3092\\u8a66\\u3057\\u8aad\\u307f\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_link\\u0022\\u003Ecomic.pixiv.net\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_clear\\u0022\\u003E\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003C\\\/a\\u003E\\u0027\\n                    );\\n                }\\n                *\\\/\\n\\n\\nvar iframe = parent.document.querySelectorAll(\\u0027.ads_dokoiku_iframe\\u0027);\\nfor (var i = 0; i \\u003C iframe.length; i++) {\\n    iframe[i].height = 101;\\n}\\n\\n\\n                        \\n            document.write(\\u0027\\u003Cdiv style=\\u0022width:600px;\\u0022\\u003E\\u003Cscript type=\\u0022text\\\/javascript\\u0022 language=\\u0022JavaScript\\u0022\\u003Eyads_ad_ds =\\u002271404_70302\\u0022;\\u003C\\\/scri\\u0027 + \\u0027pt\\u003E\\u003Cscript type=\\u0022text\\\/javascript\\u0022 language=\\u0022JavaScript\\u0022 src=\\u0022https:\\\/\\\/yads.c.yimg.jp\\\/js\\\/yads.js\\u0022\\u003E\\u003C\\\/scri\\u0027 + \\u0027pt\\u003E\\u003C\\\/div\\u003E\\u0027);\\n        \\n    \\n\\n            } else {\\n                document.write(\\n                    \\u0027\\u0027\\n                    + \\u0027\\u003Ca class=\\u0022ads_anchor\\u0022 target=\\u0022_blank\\u0022 href=\\u0022\\u0027 + ads.clickUrl + \\u0027\\u0022\\u003E\\u0027\\n                    + \\u0027\\u003Cdiv class=\\u0022ads_value\\u0022\\u003E\\u0027\\n                    + \\u0027\\u003Cdiv class=\\u0022ads_inner\\u0022\\u003E\\u0027\\n                    + \\u0027\\u003Cspan class=\\u0022ads_title\\u0022\\u003E\\u0027 + ads.adTitle + \\u0027\\u003C\\\/span\\u003E\\u0027\\n                    + \\u0027\\u003Cspan class=\\u0022ads_desc\\u0022\\u003E\\u0027 + ads.adBodyText1 \\\/*+ ads.adBodyText2*\\\/ + \\u0027\\u003C\\\/span\\u003E\\u0027\\n                    + \\u0027\\u003Cspan class=\\u0022ads_link\\u0022\\u003E\\u0027 + ads.adFooterText + \\u0027\\u003C\\\/span\\u003E\\u0027\\n                    + \\u0027\\u003Cspan class=\\u0022ads_clear\\u0022\\u003E\\u003C\\\/span\\u003E\\u0027\\n                    + \\u0027\\u003C\\\/div\\u003E\\u0027\\n                    + \\u0027\\u003C\\\/div\\u003E\\u0027\\n                    + \\u0027\\u003C\\\/a\\u003E\\u0027\\n                );\\n            }\\n        }\\n    }\\n}\\nvar ads_dokoiku_callback_1 = ads_dokoiku_callback_make(\\u00270049600016\\u0027); \\\/\\\/ is_top == 1\\nvar ads_dokoiku_callback_0 = ads_dokoiku_callback_make(\\u00270049600017\\u0027);\\n\\n\\u003C\\\/script\\u003E\u0022" + ');document.write(\'<script type="text/javascript" src="https://nw.ads.doko.jp/adparts/ad?sid=IGPIXIVN&prj=j&chn=illust&rnd=1&fmt=125X125&mfm=0&geo=1&bf=4&zyxrqp=5&callback=ads_dokoiku_callback_1"><\\/script>\');if(navigator.userAgent.match(/msie/i));else document.close();},1);<\/script>'
+                            );
+                        ifr.document.write(content);
+                    } catch (e) {
+                    }
+                })();
+            
+            </script>
+                <div style="clear:both;"></div>
+    </div>
+</div><div align="center">
+            <div class="ads_area">
+                                                        <script>
+            
+                (function () {
+                    try {
+                        var id = 'ads_dokoiku_iframe_' + "0" + "0";
+                        document.write('<iframe style="clear:both;display:block;width:100%;" id="'+id+'" class="ads_dokoiku_iframe" src="about:blank" height="68" scrolling="no" frameborder="0"></iframe>');
+                        var ifr = document.getElementById(id).contentWindow;
+                        
+                        
+                        ifr.document.open();
+                        ifr.document.close();
+                        var content = (
+                            '<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8">'
+                            + '<style>body{font-family:"メイリオ","Meiryo",Sans-Serif;}ul{margin:0;padding:0;}a{color:#258FB8}.ads_anchor{text-decoration:none;}</style>'
+                            + '<body class="ads_area" style="padding:0;margin:0;font-size:12px;line-height:1.5;background-color:#fff;">'
+                            + '<script>setTimeout(function(){document.write(' + "\u0022\\u003Cstyle type=\\u0022text\\\/css\\u0022\\u003E\\n    \\n        .one_column .ads_area_no_margin{\\n            background-color: #FFFFFF;\\n            text-align: center;\\n            width: 968px;\\n        }\\n        .ads_anchor {\\n            outline: none;\\n        }\\n\\n        .ads_anchor:hover .ads_value,\\n        .ads_anchor:hover {\\n            text-decoration: none;\\n            cursor: pointer;\\n            background-color: #FFFFFF;\\n        }\\n        .ads_inner .ads_anchor:hover {\\n            cursor: pointer;\\n            background-color: #FFFFCC;\\n        }\\n\\n        .ads_value {\\n            width: 100%;\\n            text-decoration: none;\\n            text-align: left;\\n        }\\n\\n        .ads_area {\\n            position: relative;\\n            margin: 2px 0;\\n            padding: 2px 0;\\n        }\\n        .ads_value .ads_inner {\\n    \\n            padding: 25px 0px 25px 20px;\\n    \\n            line-height: 14px;\\n        }\\n\\n        .ads_area_y {\\n        \\n                    \\n            position: relative;\\n            margin: 10px 0px 10px 0px;\\n            padding: 0px 0px 0px 11px;\\n        }\\n\\n        .ads_pr {\\n            padding: 0;\\n            float: left;\\n            color:#A0A0A0;\\n            font-size:13px;\\n            padding-right: 10px;\\n        }\\n\\n        .ads_anchor .ads_title,\\n        .ads_anchor:hover .ads_title {\\n            color: #258FB8;\\n            font-size: 15px;\\n            font-weight: bold;\\n            text-decoration: underline;\\n\\n\\n            display: inline;\\n            float: left;\\n            padding-right: 10px;\\n        }\\n\\n        .ads_value .ads_desc {\\n            color: #000000;\\n            display: inline;\\n            float: left;\\n            font-size: 13px;\\n            padding: 0;\\n        }\\n        .ads_value .ads_link {\\n            color: #008000;\\n            font-size:13px;\\n            display: none;\\n        }\\n\\n        .ads_value .ads_clear {\\n            display: block;\\n            clear: both;\\n        }\\n\\n        .ads_sponcer {\\n            color: #A0A0A0;\\n            font-size: 13px;\\n            position: absolute;\\n            bottom: 0;\\n            right: 0;\\n        }\\n        .ads_sponcer a,\\n        .ads_sponcer a:hover {\\n            color: #A0A0A0;\\n            text-decoration: underline;\\n        }\\n    \\n\\u003C\\\/style\\u003E\\u003Cscript\\u003E\\nwindow.pixivComicHotWorks = [{\\u0022title\\u0022:\\u0022\\\\u30cb\\\\u30fc\\\\u30c1\\\\u30a7\\\\u5148\\\\u751f\\\\uff5e\\\\u30b3\\\\u30f3\\\\u30d3\\\\u30cb\\\\u306b\\\\u3001\\\\u3055\\\\u3068\\\\u308a\\\\u4e16\\\\u4ee3\\\\u306e\\\\u65b0\\\\u4eba\\\\u304c\\\\u821e\\\\u3044\\\\u964d\\\\u308a\\\\u305f\\\\uff5e\\u0022,\\u0022desc\\u0022:\\u0022\\\\u300c\\\\u795e\\\\u306f\\\\u6b7b\\\\u3093\\\\u3060\\\\u300d\\\\r\\\\n\\\\u3055\\\\u3068\\\\u308a\\\\u7cfb\\\\u306e\\\\u5927\\\\u578b\\\\u65b0\\\\u4eba\\\\u3001\\\\u30cb\\\\u30fc\\\\u30c1\\\\u30a7\\\\u5148\\\\u751f\\\\u3042\\\\u3089\\\\u308f\\\\u308b!!\\\\r\\\\n\\\\r\\\\ntwitter\\\\u3067\\\\u8a08300\\\\u4e07view!!\\\\r\\\\n\\\\u30cd\\\\u30c3\\\\u30c8\\\\u3092\\\\u9a12\\\\u7136\\\\u3068\\\\u3055\\\\u305b\\\\u305f\\\\u3001\\\\u3068\\\\u3042\\\\u308b\\\\u30b3\\\\u30f3\\\\u30d3\\\\u30cb\\\\u5e97\\\\u54e1\\\\u306e\\\\u3084\\\\u308a\\\\u3068\\\\u308a\\\\u304c\\\\u885d\\\\u6483\\\\u306e\\\\u30b3\\\\u30df\\\\u30ab\\\\u30e9\\\\u30a4\\\\u30ba!!\\\\u0022\\u0022,\\u0022id\\u0022:654},{\\u0022title\\u0022:\\u0022\\\\u611b\\\\u306f\\\\u3069\\\\u3053\\\\u3060\\u0022,\\u0022desc\\u0022:\\u0022\\\\u5e02\\\\u5f79\\\\u6240\\\\u52e4\\\\u3081\\\\u306e\\\\u5185\\\\u85e4\\\\u6634\\\\u304c\\\\u3001\\\\u8d64\\\\u3093\\\\u574a\\\\u306e\\\\u3053\\\\u308d\\\\u304b\\\\u3089\\\\u5927\\\\u5207\\\\u306b\\\\u898b\\\\u5b88\\\\u3063\\\\u3066\\\\u304d\\\\u305f\\\\u7965\\\\u6587\\\\u304c\\\\u5927\\\\u5b66\\\\u3092\\\\u5352\\\\u696d\\\\u3057\\\\u5e30\\\\u90f7\\\\u3057\\\\u305f\\\\u3002\\\\u7965\\\\u6587\\\\u306f\\\\u3001\\\\u698a\\\\u5bb6\\\\u306e\\\\u6b21\\\\u671f\\\\u5f53\\\\u4e3b\\\\u3002\\\\u4eca\\\\u3067\\\\u306f\\\\u6634\\\\u306e\\\\u80cc\\\\u3092\\\\u8ffd\\\\u3044\\\\u8d8a\\\\u3059\\\\u307b\\\\u3069\\\\u6210\\\\u9577\\\\u3057\\\\u305f\\\\u3051\\\\u3069\\\\u3001\\\\u6634\\\\u306b\\\\u3068\\\\u3063\\\\u3066\\\\u306f\\\\u300c\\\\u50d5\\\\u304c\\\\u304a\\\\u307e\\\\u3082\\\\u308a\\\\u3059\\\\u308b\\\\u3088\\\\u3001\\\\u305a\\\\u30fc\\\\u3063\\\\u3068\\\\u300d\\\\u3068\\\\u8a93\\\\u3063\\\\u305f\\\\u2026\\u0022,\\u0022id\\u0022:3722},{\\u0022title\\u0022:\\u0022\\\\u65b0\\\\u7c73\\\\u59c9\\\\u59b9\\\\u306e\\\\u3075\\\\u305f\\\\u308a\\\\u3054\\\\u306f\\\\u3093\\u0022,\\u0022desc\\u0022:\\u0022\\\\u4e21\\\\u89aa\\\\u306e\\\\u518d\\\\u5a5a\\\\u306b\\\\u3088\\\\u308a\\\\u3001\\\\u7a81\\\\u7136\\\\u59c9\\\\u59b9\\\\u3068\\\\u306a\\\\u3063\\\\u305f\\\\u30b5\\\\u30c1\\\\u3068\\\\u3042\\\\u3084\\\\u308a\\\\u3002\\\\r\\\\n\\\\r\\\\n\\\\u8a00\\\\u8449\\\\u6570\\\\u304c\\\\u5c11\\\\u306a\\\\u304f\\\\u76ee\\\\u3064\\\\u304d\\\\u306e\\\\u92ed\\\\u3044\\\\u3042\\\\u3084\\\\u308a\\\\u306b\\\\u5bfe\\\\u3057\\\\u3001\\\\u30b5\\\\u30c1\\\\u306f\\\\u7269\\\\u6016\\\\u3058\\\\u3057\\\\u3001\\\\u3053\\\\u308c\\\\u304b\\\\u3089\\\\u306e\\\\u540c\\\\u5c45\\\\u751f\\\\u6d3b\\\\u306b\\\\u5927\\\\u304d\\\\u306a\\\\u4e0d\\\\u5b89\\\\u3092\\\\u611f\\\\u3058\\\\u3066\\\\u3057\\\\u307e\\\\u3046\\\\u3002\\\\u305d\\\\u3093\\\\u306a\\\\u6642\\\\u3001\\\\u6d77\\\\u5916\\\\u51fa\\\\u5f35\\\\u4e2d\\\\u306e\\\\u7236\\\\u89aa\\\\u304b\\\\u3089\\\\u5c4a\\\\u3044\\\\u305f\\\\u306e\\\\u306f\\\\u751f\\\\u2026\\u0022,\\u0022id\\u0022:3287}];\\n\\u003C\\\/script\\u003E\\n\\n\\u003Cscript\\u003E\\nwindow.pixivComicAds = [];\\nif (window.pixivComicHotWorks) {\\n  pixivComicAds = pixivComicAds.concat(pixivComicHotWorks);\\n}\\nwindow.documentWritePixivComicAd = function() {\\n  try {\\n    if (window.pixivComicAds) {\\n      var ads = [];\\n      var pixiv = window.pixiv;\\n      if (!pixiv) {\\n        try {\\n          pixiv = window.parent.pixiv;\\n        } catch (e) {}\\n      }\\n      if (pixiv \\u0026\\u0026 pixiv.user \\u0026\\u0026 pixiv.user.gender) {\\n        var seg = pixiv.user.gender === \\u0027male\\u0027 ? 1 : pixiv.user.gender === \\u0027female\\u0027 ? 2 : 0;\\n        for (var i = 0, l = pixivComicAds.length; i \\u003C l; i++) {\\n          var ad = pixivComicAds[i];\\n          if (!ad.seg || ad.seg === seg) {\\n            ads.push(ad);\\n          }\\n        }\\n      }\\n      if (ads.length === 0) {\\n        ads = pixivComicAds;\\n      }\\n      var ad = ads[Math.floor(Math.random() * 10000) % ads.length];\\n      var link;\\n      if (!ad.type || ad.type === \\u0027w\\u0027) {\\n        link = \\u0027https:\\\/\\\/comic.pixiv.net\\\/works\\\/\\u0027 + ad.id + \\u0027?ads=tx-w\\u0027 + ad.id;\\n      } else if (ad.type === \\u0027m\\u0027) {\\n        link = \\u0027https:\\\/\\\/comic.pixiv.net\\\/magazines\\\/\\u0027 + ad.id + \\u0027?ads=tx-m\\u0027 + ad.id;\\n      }\\n      document.write(\\n        \\u0027\\u0027\\n        + \\u0027\\u003Ca class=\\u0022ads_anchor\\u0022 target=\\u0022_blank\\u0022 href=\\u0022\\u0027 + link + \\u0027\\u0022\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_value\\u0022 style=\\u0022padding-top:5px; padding-bottom:5px;\\u0022\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_inner\\u0022 style=\\u0022padding-top:5px; padding-bottom:5px;\\u0022\\u003E\\u0027\\n        + \\u0027\\u003Cspan class=\\u0022ads_pr\\u0022\\u003E\\u3010PR\\u3011\\u003C\\\/span\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_title\\u0022 style=\\u0022margin-bottom:5px;\\u0022\\u003Epixiv\\u30b3\\u30df\\u30c3\\u30af\\u3067\\u300e\\u0027 + ad.title + \\u0027\\u300f\\u3092\\u8aad\\u3082\\u3046\\uff01\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003Cbr\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_desc\\u0022 style=\\u0022display: block; float: none; clear: both; padding-top: 1px; padding-bottom: 1px;\\u0022\\u003E\\u0027 + ad.desc + \\u0027\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_link\\u0022 style=\\u0022display: block; float: none; clear: both; padding-top: 0px; padding-bottom: 1px;\\u0022\\u003Ecomic.pixiv.net\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003Cdiv class=\\u0022ads_clear\\u0022\\u003E\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003C\\\/div\\u003E\\u0027\\n        + \\u0027\\u003C\\\/a\\u003E\\u0027\\n      );\\n      return;\\n    }\\n  } catch(e) {\\n  }\\n  document.write(\\n    \\u0027\\u0027\\n    + \\u0027\\u003Ca class=\\u0022ads_anchor\\u0022 target=\\u0022_blank\\u0022 href=\\u0022https:\\\/\\\/comic.pixiv.net\\\/?ads=tx\\u0022\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_value\\u0022 style=\\u0022padding-top:5px; padding-bottom:5px;\\u0022\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_inner\\u0022 style=\\u0022padding-top:5px; padding-bottom:5px;\\u0022\\u003E\\u0027\\n    + \\u0027\\u003Cspan class=\\u0022ads_pr\\u0022\\u003E\\u3010PR\\u3011\\u003C\\\/span\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_title\\u0022\\u003Epixiv\\u30b3\\u30df\\u30c3\\u30af\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003Cbr\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_desc\\u0022 style=\\u0022display: block; float: none; clear: both; padding-top: 1px; padding-bottom: 1px;\\u0022\\u003Epixiv\\u30b3\\u30df\\u30c3\\u30af\\u3067\\u6f2b\\u753b\\u3092\\u7121\\u6599\\u3067\\u8a66\\u3057\\u8aad\\u307f\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_link\\u0022 style=\\u0022display: block; float: none; clear: both; padding-top: 0px; padding-bottom: 1px;\\u0022\\u003Ecomic.pixiv.net\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003Cdiv class=\\u0022ads_clear\\u0022\\u003E\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003C\\\/div\\u003E\\u0027\\n    + \\u0027\\u003C\\\/a\\u003E\\u0027\\n  );\\n};\\n\\u003C\\\/script\\u003E\\n\\n\\u003Cscript\\u003E\\n\\nvar ads_dokoiku_notfound_count = 0;\\nfunction ads_dokoiku_callback_make(apikey) {\\n    return function(data) {\\n        for (var i = 0, l = data.ads.length; i \\u003C l; ++i) {\\n            var ads = data.ads[i];\\n\\n            \\n            if (ads.adType == \\u0027u\\u0027) {\\n                \\n                \\\/* \\u4e00\\u6642\\u7684\\u306bpixiv \\u30b3\\u30df\\u30c3\\u30af\\u5e83\\u544a\\u306e\\u4ee3\\u308f\\u308a\\u306bYDN\\u3092\\u914d\\u4fe1\\u3059\\u308b\\n                if (window.documentWritePixivComicAd) {\\n                    documentWritePixivComicAd();\\n                } else {\\n                    document.write(\\n                        \\u0027\\u0027\\n                        + \\u0027\\u003Ca class=\\u0022ads_anchor\\u0022 target=\\u0022_blank\\u0022 href=\\u0022https:\\\/\\\/comic.pixiv.net\\\/?ads=tx\\u0022\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_value\\u0022\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_inner\\u0022\\u003E\\u0027\\n                        + \\u0027\\u003Cspan class=\\u0022ads_pr\\u0022\\u003E\\u3010PR\\u3011\\u003C\\\/span\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_title\\u0022\\u003Epixiv\\u30b3\\u30df\\u30c3\\u30af\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003Cbr\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_desc\\u0022\\u003Epixiv\\u30b3\\u30df\\u30c3\\u30af\\u3067\\u6f2b\\u753b\\u3092\\u7121\\u6599\\u3092\\u8a66\\u3057\\u8aad\\u307f\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_link\\u0022\\u003Ecomic.pixiv.net\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003Cdiv class=\\u0022ads_clear\\u0022\\u003E\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003C\\\/div\\u003E\\u0027\\n                        + \\u0027\\u003C\\\/a\\u003E\\u0027\\n                    );\\n                }\\n                *\\\/\\n\\n\\nvar iframe = parent.document.querySelectorAll(\\u0027.ads_dokoiku_iframe\\u0027);\\nfor (var i = 0; i \\u003C iframe.length; i++) {\\n    iframe[i].height = 101;\\n}\\n\\n\\n                        \\n            document.write(\\u0027\\u003Cdiv style=\\u0022width:600px;\\u0022\\u003E\\u003Cscript type=\\u0022text\\\/javascript\\u0022 language=\\u0022JavaScript\\u0022\\u003Eyads_ad_ds =\\u002291292_70282\\u0022;\\u003C\\\/scri\\u0027 + \\u0027pt\\u003E\\u003Cscript type=\\u0022text\\\/javascript\\u0022 language=\\u0022JavaScript\\u0022 src=\\u0022https:\\\/\\\/yads.c.yimg.jp\\\/js\\\/yads.js\\u0022\\u003E\\u003C\\\/scri\\u0027 + \\u0027pt\\u003E\\u003C\\\/div\\u003E\\u0027);\\n        \\n    \\n\\n            } else {\\n                document.write(\\n                    \\u0027\\u0027\\n                    + \\u0027\\u003Ca class=\\u0022ads_anchor\\u0022 target=\\u0022_blank\\u0022 href=\\u0022\\u0027 + ads.clickUrl + \\u0027\\u0022\\u003E\\u0027\\n                    + \\u0027\\u003Cdiv class=\\u0022ads_value\\u0022\\u003E\\u0027\\n                    + \\u0027\\u003Cdiv class=\\u0022ads_inner\\u0022\\u003E\\u0027\\n                    + \\u0027\\u003Cspan class=\\u0022ads_title\\u0022\\u003E\\u0027 + ads.adTitle + \\u0027\\u003C\\\/span\\u003E\\u0027\\n                    + \\u0027\\u003Cspan class=\\u0022ads_desc\\u0022\\u003E\\u0027 + ads.adBodyText1 \\\/*+ ads.adBodyText2*\\\/ + \\u0027\\u003C\\\/span\\u003E\\u0027\\n                    + \\u0027\\u003Cspan class=\\u0022ads_link\\u0022\\u003E\\u0027 + ads.adFooterText + \\u0027\\u003C\\\/span\\u003E\\u0027\\n                    + \\u0027\\u003Cspan class=\\u0022ads_clear\\u0022\\u003E\\u003C\\\/span\\u003E\\u0027\\n                    + \\u0027\\u003C\\\/div\\u003E\\u0027\\n                    + \\u0027\\u003C\\\/div\\u003E\\u0027\\n                    + \\u0027\\u003C\\\/a\\u003E\\u0027\\n                );\\n            }\\n        }\\n    }\\n}\\nvar ads_dokoiku_callback_1 = ads_dokoiku_callback_make(\\u00270049600016\\u0027); \\\/\\\/ is_top == 1\\nvar ads_dokoiku_callback_0 = ads_dokoiku_callback_make(\\u00270049600017\\u0027);\\n\\n\\u003C\\\/script\\u003E\u0022" + ');document.write(\'<script type="text/javascript" src="https://nw.ads.doko.jp/adparts/ad?sid=IGPIXIVN&prj=j&chn=illust&rnd=1&fmt=125X125&mfm=0&geo=1&bf=4&zyxrqp=5&callback=ads_dokoiku_callback_0"><\\/script>\');if(navigator.userAgent.match(/msie/i));else document.close();},1);<\/script>'
+                            );
+                        ifr.document.write(content);
+                    } catch (e) {
+                    }
+                })();
+            
+            </script>
+                <div style="clear:both;"></div>
+    </div>
+</div></div></div><div class="cool-work-sub"><div><span class='multi-ads-area'>
+<div style='margin-left:auto; margin-right:auto;'><iframe name="before_login" width="300" height="250" src="https://d.pixiv.org/show?zone_id=before_login&segments=r18&format=html&pla_referer_page_name=pixiv_member_illust&ab_test_digits_first=4&ab_test_digits_second=3&num=5980a27c583"></iframe></div></span></div><section class="score"><ul><li class="info"><span>閲覧数</span><span class="views">1379</span></li><li class="info"><span>いいね！</span><span class="views">205</span></li></ul></section><div class="works_illusticonsBlock"><div class="bookmark"><a href="https://www.pixiv.net/signup.php?ref=medium_bookmark_cool" class="ui-button require-register" data-title="registerBookmark">ブックマークに追加</a></div><ul class="share-button"><li><a class="twitter-share-button" data-url="https://www.pixiv.net/member_illust.php?illust_id=64154370&amp;mode=medium" data-text="2017　暑中見舞い | 瑚樽（こたる) #pixiv" data-count="none"></a></li><li ><div class="fb-like" data-href="https://www.pixiv.net/member_illust.php?illust_id=64154370&amp;mode=medium" data-layout="button_count" data-send="false"></div></li></ul></div><section class="works"><h3 class="title"><a href="member.php?id=188360">投稿した作品</a></h3><ul><li class="work selected_works "><a href="/member_illust.php?mode=medium&amp;illust_id=64154370"><img src="https://i.pximg.net/c/128x128/img-master/img/2017/07/31/23/11/58/64154370_p0_square1200.jpg" alt="2017　暑中見舞い/瑚樽（こたる)" title="2017　暑中見舞い/瑚樽（こたる)" border="0" /></a></li><li class="work  r-18"><a href="/member_illust.php?mode=medium&amp;illust_id=64153321"><img src="https://i.pximg.net/c/128x128/img-master/img/2017/07/31/22/33/16/64153321_p0_square1200.jpg" alt="《C92新刊》　雷とエロい事する本/瑚樽（こたる)" title="《C92新刊》　雷とエロい事する本/瑚樽（こたる)" border="0" /></a></li><li class="work  r-18"><a href="/member_illust.php?mode=medium&amp;illust_id=63925628"><img src="https://i.pximg.net/c/128x128/img-master/img/2017/07/31/22/37/36/63925628_p0_square1200.jpg" alt="《C92》雷本表紙&amp;会場特典のクリアファイル/瑚樽（こたる)" title="《C92》雷本表紙&amp;会場特典のクリアファイル/瑚樽（こたる)" border="0" /></a></li><li class="work  "><a href="/member_illust.php?mode=medium&amp;illust_id=62768603"><img src="https://i.pximg.net/c/128x128/img-master/img/2017/05/06/15/19/23/62768603_p0_square1200.jpg" alt="5/7砲雷撃戦29お品書きです。/瑚樽（こたる)" title="5/7砲雷撃戦29お品書きです。/瑚樽（こたる)" border="0" /></a></li><li class="work  r-18"><a href="/member_illust.php?mode=medium&amp;illust_id=62716839"><img src="https://i.pximg.net/c/128x128/img-master/img/2017/05/03/20/00/02/62716839_p0_square1200.jpg" alt="《砲雷撃戦２9新刊》　浦風とエロい事する本/瑚樽（こたる)" title="《砲雷撃戦２9新刊》　浦風とエロい事する本/瑚樽（こたる)" border="0" /></a></li><li class="work  r-18"><a href="/member_illust.php?mode=medium&amp;illust_id=62716836"><img src="https://i.pximg.net/c/128x128/img-master/img/2017/05/03/20/00/01/62716836_p0_square1200.jpg" alt="朝から提督はげんきじゃねぇ/瑚樽（こたる)" title="朝から提督はげんきじゃねぇ/瑚樽（こたる)" border="0" /></a></li></ul><div class="medium_more"><a href="member.php?id=188360">もっと見る</a></div></section><section class="works"><h3 class="title"><a href="https://www.pixiv.net/signup.php?ref=medium_more_cool_bmtitle" class="require-register" data-title="showWorkMoreRegister">ブックマークした作品</a></h3><ul><li class="work"><a href="member_illust.php?mode=medium&amp;illust_id=59430593&amp;uarea=bookmark"><img src="https://i.pximg.net/c/128x128/img-master/img/2016/10/12/00/00/08/59430593_p0_square1200.jpg" alt="俺の妹が異世界からやってきました！？/鈴音れな" title="俺の妹が異世界からやってきました！？/鈴音れな" border="0" /></a></li><li class="work"><a href="member_illust.php?mode=medium&amp;illust_id=57910201&amp;uarea=bookmark"><img src="https://i.pximg.net/c/128x128/img-master/img/2016/07/15/02/12/21/57910201_p0_square1200.jpg" alt="お尻大鯨/てんけん" title="お尻大鯨/てんけん" border="0" /></a></li><li class="work"><a href="member_illust.php?mode=medium&amp;illust_id=57353467&amp;uarea=bookmark"><img src="https://i.pximg.net/c/128x128/img-master/img/2016/06/12/03/23/46/57353467_p0_square1200.jpg" alt="受かりました/てんけん" title="受かりました/てんけん" border="0" /></a></li><li class="work"><a href="member_illust.php?mode=medium&amp;illust_id=57075716&amp;uarea=bookmark"><img src="https://i.pximg.net/c/128x128/img-master/img/2016/05/26/20/26/26/57075716_p0_square1200.jpg" alt="きつね #16/菅 裕二" title="きつね #16/菅 裕二" border="0" /></a></li><li class="work"><a href="member_illust.php?mode=medium&amp;illust_id=54716332&amp;uarea=bookmark"><img src="https://i.pximg.net/c/128x128/img-master/img/2016/01/14/23/14/44/54716332_p0_square1200.jpg" alt="落書き/りゅうじ提督" title="落書き/りゅうじ提督" border="0" /></a></li><li class="work"><a href="member_illust.php?mode=medium&amp;illust_id=54632449&amp;uarea=bookmark"><img src="https://i.pximg.net/c/128x128/img-master/img/2016/01/10/00/47/51/54632449_p0_square1200.jpg" alt="フリーアイコンその３/鈴音れな" title="フリーアイコンその３/鈴音れな" border="0" /></a></li></ul></section><div class="clearfix">&nbsp;</div><span class='multi-ads-area'>
+<div style='margin-left:auto; margin-right:auto;'><iframe name="before_login2" width="300" height="250" src="https://d.pixiv.org/show?zone_id=before_login2&segments=r18&format=html&pla_referer_page_name=pixiv_member_illust&ab_test_digits_first=4&ab_test_digits_second=3&num=5980a27c593"></iframe></div></span></div><div class="link-page"><h2>この作品の前後に投稿された作品 </h2><ul><li class="center">|</li><li class="newer"><a href="member_illust.php?mode=medium&amp;illust_id=64154371">東方ワンドロまとめ6</a></li><li class="older"><a href="member_illust.php?mode=medium&amp;illust_id=64154369">後ろ</a></li></ul></div><section class="_pixivision-item-container"><div class="container-wrapper"><div class="header"><a href="https://www.pixivision.net/ja/?utm_campaign=nologin_member_illust_medium&amp;utm_source=pixiv.net&amp;utm_content=service"target="_blank"rel="noopener"class="service"><img src="https://source.pixiv.net/www/images/beta/logo-pixivision.svg?1" alt="pixivision" height="20" class="logo"></a><span class="latest-articles">新着記事</span><a href="https://www.pixivision.net/ja/?utm_campaign=nologin_member_illust_medium&amp;utm_source=pixiv.net&amp;utm_content=continue"target="_blank"rel="noopener"class="continue">もっと見る</a></div><div class="contents-container"><div class="pixivision-items"><section class="pixivision-item"><div class="contents"><a href="https://www.pixivision.net/ja/a/2703?utm_campaign=nologin_member_illust_medium&amp;utm_source=pixiv.net"target="_blank"rel="noopener"><div class="cover tutorial"><div class="thumbnail" style="background-image: url('https://i.pximg.net/imgaz/upload/20170801/407924043.jpg')"></div><div class="category tutorial">メイキング</div></div><div class="article-card-title">キラキラ感で「カワイイ」を創り出す──上倉エクさんメイキング...</div></a></div></section><section class="pixivision-item"><div class="contents"><a href="https://www.pixivision.net/ja/a/2667?utm_campaign=nologin_member_illust_medium&amp;utm_source=pixiv.net"target="_blank"rel="noopener"><div class="cover spotlight"><div class="thumbnail" style="background-image: url('https://i.pximg.net/c/480x960/img-master/img/2013/12/07/02/22/49/40137693_p0_master1200.jpg')"></div><div class="category spotlight">イラスト</div></div><div class="article-card-title">かわいい×かわいい＝最強！「おねロリ」のイラスト特集</div></a></div></section><section class="pixivision-item"><div class="contents"><a href="https://www.pixivision.net/ja/a/2701?utm_campaign=nologin_member_illust_medium&amp;utm_source=pixiv.net"target="_blank"rel="noopener"><div class="cover spotlight"><div class="thumbnail" style="background-image: url('https://i.pximg.net/c/480x960/img-master/img/2011/05/08/02/20/51/18726333_p0_master1200.jpg')"></div><div class="category spotlight">イラスト</div></div><div class="article-card-title">どこかで見たあの景色。夏の思い出を描いたイラスト特集</div></a></div></section><section class="pixivision-item"><div class="contents"><a href="https://www.pixivision.net/ja/a/2689?utm_campaign=nologin_member_illust_medium&amp;utm_source=pixiv.net"target="_blank"rel="noopener"><div class="cover inspiration"><div class="thumbnail" style="background-image: url('https://i.pximg.net/imgaz/upload/20170731/999505227.jpg')"></div><div class="category inspiration">おすすめ</div></div><div class="article-card-title">あなたはもう投票した!? 「WEBマンガ総選挙」中間発表＆ノ...</div></a></div></section><section class="pixivision-item"><div class="contents"><a href="https://www.pixivision.net/ja/a/2696?utm_campaign=nologin_member_illust_medium&amp;utm_source=pixiv.net"target="_blank"rel="noopener"><div class="cover spotlight"><div class="thumbnail" style="background-image: url('https://i.pximg.net/c/480x960/img-master/img/2015/02/04/02/40/32/48546791_p0_master1200.jpg')"></div><div class="category spotlight">イラスト</div></div><div class="article-card-title">たくましさに惚れ惚れ♡胸筋が素敵な男性のイラスト特集</div></a></div></section></div></div></div></section><div class="cool-ad-header"><span class='multi-ads-area'>
+<!-- rotation -->
+<div>
+        <iframe name="header" src="https://d.pixiv.org/show?zone_id=header&segments=gray&format=html&pla_referer_page_name=pixiv_member_illust&ab_test_digits_first=4&ab_test_digits_second=3&kw=45324c5c3dba024&kw=ef9ce1cdb9346d2&num=5980a27c745" width="468" height="60"></iframe>
+</div></span></div><div class="cool-ad-footer"><span class='multi-ads-area'>
+<div style='margin-left:auto; margin-right:auto;'>
+        <iframe name="before_login" width="728" height="130" src="https://d.pixiv.org/show?zone_id=footer&segments=gray&format=html&pla_referer_page_name=pixiv_member_illust&ab_test_digits_first=4&ab_test_digits_second=3&num=5980a27c63"></iframe>
+</div></span></div></div></div></div><footer class="newindex-footer ya-pc-overlay"><div class="newindex-service"><a href="https://booth.pm/" target="_blank" class="service-booth">BOOTH(簡単にネットショップが作れる)</a><a href="https://factory.pixiv.net/" target="_blank" class="service-factory">FACTORY(簡単にグッズがつくれて通販もできる)</a><div style="display: inline-block;"><a href="https://factory.pixiv.net/books" target="_blank" class="service-books" style="width:75px;">pixivFACTORY BOOKS(簡単に同人誌がつくれる。イベントや即売会に最適。)</a></div><a href="https://dic.pixiv.net/" target="_blank" class="service-dic">ピクシブ百科事典</a><a href="https://comic.pixiv.net/" target="_blank" class="service-comic">無料マンガ・漫画試し読み pixivコミック</a><a href="https://novel.pixiv.net/" target="_blank" class="service-novel">pixivノベル</a><a href="https://www.pixivision.net/ja/" target="_blank" class="service-pixivision">pixivision</a><a href="https://sensei.pixiv.net/" target="_blank" class="service-sensei">sensei</a><a href="https://pawoo.net/" target="_blank" alt="Pawoo" class="service-pawoo">Pawoo</a></div><ul><li><a href="https://www.pixiv.net/about.php">pixivについて</a></li><li><a href="https://www.pixiv.net/terms.php">利用規約</a></li><li><a href="https://www.pixiv.net/privacy.php">プライバシーポリシー</a></li><li><a href="https://www.pixiv.net/support.php">お問い合わせ</a></li><li><a href="http://www.pixiv.co.jp/ads">広告掲載</a></li></ul><div>&copy; pixiv</div></footer></div>
+
+    </div>
+
+    <section class="_feedback-form-modal _modal-container ui-modal-close"><div class="container"><i class="_pico-30 _icon-close close ui-modal-close"></i><div class="body"><div class="editor tab"><div class="contents"><h1 class="title">フィードバックを送る</h1><div class="description">pixivでは今後の開発の参考にするため、フィードバックを募集しています。<br>あなたが使っていて感じたこと、見つけた問題をお寄せください。</div><div class="description">いただいた内容すべてに返信することはできませんが、開発メンバーみんなで目を通しています。</div><div class="_selector kind-selector"><span class="explain">フィードバックの種類</span><select class="kind"><option value="feedback">ご意見・ご感想</option><option value="bug">バグ報告</option><option value="translation">翻訳の提案</option><option value="hyoka">評価機能へのフィードバック</option></select><i class="_pico-12 _icon-menu"></i></div><textarea class="draft" name="text" rows="5" cols="40" placeholder="具体的な内容をお寄せいただくと、とても参考になります"></textarea></div><div class="controls"><button class="preview _action-button large">内容を確認</button><button class="close _action-button negative large ui-modal-close">やめとく</button></div></div><div class="previewer tab _hidden"><div class="contents"><div class="title">この内容で送ります</div><div class="kind">フィードバックの種類: <span class="kind-text"></span></div><div class="text"></div></div><div class="controls"><button class="send _action-button large">送る</button><button class="edit _action-button negative large">書き直す</button><button class="close _action-button negative large ui-modal-close">やめとく</button></div></div><div class="thanks tab _hidden"><div class="contents"><div class="title">ありがとうございました！</div><div class="description">サイトは随時アップデートしていきます。<br>また何かお気付きの点ありましたら、お気軽にフィードバックをお寄せください。</div></div><div class="controls"><button class="close _action-button large ui-modal-close">閉じる</button></div></div><div class="waiting"><div class="icon"></div></div></div></div></section>
+
+
+    
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NH5MTD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NH5MTD');</script>
+<!-- End Google Tag Manager -->
+
+
+<script id="capybara-status-check" data-t-code="0ec06063442619c76e42d6ebed9fa6dd" data-m-code="5dbfe87d10e2734aa73348edc142086d"></script>
+
+
+</body>
+</html>
